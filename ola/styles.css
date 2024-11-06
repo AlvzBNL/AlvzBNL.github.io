@@ -1,0 +1,63 @@
+body{
+    background-image: url(img/pochacco.jpg);
+}
+.primero {
+        display: inline-block;
+        align-items: center;
+        font-family: cursive;
+        background-color: rgb(219, 144, 144);
+        color:  rgb(46, 44, 44);
+        margin: 200px;
+        width: 1500px;
+        font-size: 110px;
+}
+.segundo {
+        display: inline-block;
+        align-items: center;
+        font-family: cursive;
+        background-color: rgb(219, 144, 144);
+        color:  rgb(46, 44, 44);
+        margin: 500px;
+        width: 1500px;
+        font-size: 110px;
+}
+.tercero {
+        display: inline-block;
+        align-items: center;
+        font-family: cursive;
+        background-color: rgb(219, 144, 144);
+        color:  rgb(46, 44, 44);
+        margin: 200px;
+        width: 1500px;
+        font-size: 110px;
+}
+.cuarto {
+        display: inline-block;
+        align-items: center;
+        font-family: cursive;
+        background-color: rgb(219, 144, 144);
+        color:  rgb(46, 44, 44);
+        margin: 200px;
+        width: 1500px;
+        font-size: 110px;
+}
+.quinto {
+        display: inline-block;
+        align-items: center;
+        font-family: cursive;
+        background-color: rgb(219, 144, 144);
+        color:  rgb(46, 44, 44);
+        margin: 200px;
+        width: 1500px;
+        font-size: 110px;
+}
+.sexto {
+        display: inline-block;
+        align-items: center;
+        font-family: cursive;
+        background-color: rgb(219, 144, 144);
+        color:  rgb(46, 44, 44);
+        margin: 200px;
+        width: 1500px;
+        font-size: 110px;
+}
